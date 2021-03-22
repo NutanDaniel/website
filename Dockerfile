@@ -1,3 +1,3 @@
 
-FROM NutanDaniel/webapp
+FROM nutandaniel/webapp
 ADD . /var/www/html
